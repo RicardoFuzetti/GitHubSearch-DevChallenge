@@ -1,0 +1,19 @@
+.container-error {
+    margin-top: 50px;
+
+    width: 299px;
+    height: 45px;
+
+    border-radius: 7px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #8752cc8f;
+
+    strong {
+        color: #fff;
+        background: transparent;
+    }
+}

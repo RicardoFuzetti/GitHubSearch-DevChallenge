@@ -1,9 +1,6 @@
 
 # GitHub Search
 
-## 🚀 Vídeo Demonstrativo
-[![Watch the video](https://drive.google.com/file/d/1nOloHnc_nHk1oEFiGOtQl-lP66KS5qCt/view?usp=sharing)
-
 ## 🚀 Tecnologia 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
